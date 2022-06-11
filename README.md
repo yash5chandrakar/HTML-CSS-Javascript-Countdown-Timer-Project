@@ -31,6 +31,9 @@ Disclaimer : All images used in this project are taken from <a href = "https://u
         <li>Reset Button :- This button resets the Countdown Timer to the default state with 0 days/hours/mins
             remaining.</li>
     </ol>
+    <p>The hardest thing in my opinion to impelement was the clock. It tooks various tries to get the clock working as
+        intended. With the new features being added in like adding user input and reset button made things a little
+        challenging but i made it work.</p>
     <h3>#Tools</h3>
     <p>This project was built using only HTML, CSS, and javascript. The design is very simple and plain. Most of the
         time i spent on this project was on making the Countdown work(javascript part). I did want the timer to look
