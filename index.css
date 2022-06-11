@@ -1,0 +1,82 @@
+body {
+    background-image: url(stars.jpg);
+    background-size: cover;
+}
+
+#name2 {
+    color: yellow;
+    font-size: 25px;
+}
+
+.getname {
+    color: white;
+    margin-top: 5px;
+}
+
+
+.zero div p {
+    font-size: 50px;
+}
+
+
+.words {
+    color: bisque;
+}
+
+#full {
+    float: right;
+}
+
+#tip {
+    color: orange;
+}
+
+
+.container {
+    color: white;
+    border: bisque solid 2px;
+    position: relative;
+    top: 20vh;
+    left: 25vw;
+    width: 50%;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.container div p {
+    margin: 0;
+}
+
+.container div {
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+
+.box1 {
+    margin-top: 3px;
+    background-color: gray;
+    width: 40%;
+    padding: 3px;
+    border: 2px solid silver;
+    border-radius: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.zero {
+    display: flex;
+    justify-content: center;
+}
+
+
+footer {
+    background-color: bisque;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: black;
+}
