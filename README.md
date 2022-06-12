@@ -39,4 +39,4 @@ Disclaimer : All images used in this project are taken from <a href = "https://u
     <p>This project was built using only HTML, CSS, and javascript. The design is very simple and plain. Most of the
         time i spent on this project was on making the Countdown work(javascript part). I did want the timer to look
         aesthetically pleasing as well so i invested some time in Css as well. Overall i think the project looks and
-        works better than i had hoped</p>
+        works better than i had hoped .</p>
