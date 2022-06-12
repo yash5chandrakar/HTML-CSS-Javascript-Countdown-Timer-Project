@@ -22,7 +22,7 @@ Disclaimer : All images used in this project are taken from <a href = "https://u
         to the eyes so anyone can use it as a wallpaper as well. I am not thinking of making it as a product in the near
         future as i am sure there are many much better products designed specifically for this purpose. </p>
     <h3>#Features</h3>
-    <p>This timer is of very basic design so it has only 4 features :-</p>
+    <p>This timer is of very minimalistic design so it has only 5 features :-</p>
     <ol>
         <li>Countdown Box :- Shows the timer and the event thats entered by the user. </li>
         <li>User Input :- User input is taken using a menu that can be hidden with the toggle button. It takes data
@@ -30,6 +30,7 @@ Disclaimer : All images used in this project are taken from <a href = "https://u
         <li>Submit Button :- This button submits the data entered by user and starts the Countdown Timer.</li>
         <li>Reset Button :- This button resets the Countdown Timer to the default state with 0 days/hours/mins
             remaining.</li>
+        <li>Border On/Off Button :- This button toggles the visibility of border of Countdown Timer.</li>
     </ol>
     <p>The hardest thing in my opinion to impelement was the clock. It tooks various tries to get the clock working as
         intended. With the new features being added in like adding user input and reset button made things a little
