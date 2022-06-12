@@ -10,7 +10,7 @@ Files included in this project are as follows : <br>
 4.download.png <br>
 5.stars.jpg <br>
 
-Disclaimer : All images used in this project are taken from <a href = "https://unsplash.com/" target="_main" >Unspash.com</a> .
+Disclaimer : All images used in this project are taken from <a href = "https://unsplash.com/" target="_main" >Unsplash.com</a> .
 
 <h3>#About</h3>
     <p>This is a project designed my Yash Kumar Chandrakar(thats me). The idea of this project is very simple, if you dont
