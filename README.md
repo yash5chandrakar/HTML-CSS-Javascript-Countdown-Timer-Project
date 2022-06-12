@@ -8,7 +8,7 @@ Files included in this project are as follows : <br>
 2.index.js <br>
 3.index.html <br>
 4.download.png <br>
-5.stars.jpg <br>
+5.greg-rakozy-oMpAz-DN-9I-unsplash.jpg <br>
 
 Disclaimer : All images used in this project are taken from <a href = "https://unsplash.com/" target="_main" >Unsplash.com</a> .
 
