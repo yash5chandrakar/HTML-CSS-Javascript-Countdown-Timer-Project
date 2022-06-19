@@ -1,14 +1,18 @@
-# HTML-CSS-Javascript-Countdown-Timer-Project
-Mini Project for a Countdown Timer 
+# Mini Project for a Countdown Timer 
 
-Mini Project Designed by Yash Kumar Chandrakar
+<p> Here's a  <a href="https://coruscating-moxie-29a8df.netlify.app/" target="_blank">Link</a> to see my Project.</p>
 
-Files included in this project are as follows : <br>
-1.index.css <br>
-2.index.js <br>
-3.index.html <br>
-4.download.png <br>
-5.greg-rakozy-oMpAz-DN-9I-unsplash.jpg <br>
+<b>Mini Project Designed by Yash Kumar Chandrakar</b>
+<br>
+<h3>#Contents/Files</h3>
+<p>Files included in this project are as follows :-</p>
+<ol>
+<li>index.css</li> 
+<li>download.png</li>
+<li>index.js</li>
+<li>index.html</li>
+<li>greg-rakozy-oMpAz-DN-9I-unsplash.jpg</li>
+</ol>
 
 Disclaimer : All images used in this project are taken from <a href = "https://unsplash.com/" target="_main" >Unsplash.com</a> .
 
@@ -40,3 +44,5 @@ Disclaimer : All images used in this project are taken from <a href = "https://u
         time i spent on this project was on making the Countdown work(javascript part). I did want the timer to look
         aesthetically pleasing as well so i invested some time in Css as well. Overall i think the project looks and
         works better than i had hoped .</p>
+    <h3>#Why i chose to build this project</h3>
+    <p>I chose this project because i like building logic and this is mostly a Javascript project. I had a lot of fun building logic for this project. There were some challenges like how to make the timer work properly, the designing of the divs in html part etc. Overall i really liked building this project and it was a very great learning experience for me.</p>
