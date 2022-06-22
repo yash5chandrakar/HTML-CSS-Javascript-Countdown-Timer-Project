@@ -11,7 +11,7 @@
 <li>download.png</li>
 <li>index.js</li>
 <li>index.html</li>
-<li>greg-rakozy-oMpAz-DN-9I-unsplash.jpg</li>
+<li>container-image.jpg</li>
 </ol>
 
 Disclaimer : All images used in this project are taken from <a href = "https://unsplash.com/" target="_main" >Unsplash.com</a> .
