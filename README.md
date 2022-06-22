@@ -12,6 +12,7 @@
 <li>index.js</li>
 <li>index.html</li>
 <li>container-image.jpg</li>
+<li>README.md</li>
 </ol>
 
 Disclaimer : All images used in this project are taken from <a href = "https://unsplash.com/" target="_main" >Unsplash.com</a> .
